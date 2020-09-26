@@ -1,4 +1,4 @@
-classes= 3
+classes= 1
 train  = duckiestuff/train.txt
 valid  = duckiestuff/valid.txt
 names = data/duckie-multi.names

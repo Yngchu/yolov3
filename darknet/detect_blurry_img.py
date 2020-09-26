@@ -18,7 +18,7 @@ def main():
     parser.add_argument("inputFolder", help="Path of folder containing images to classify", type=str)
     parser.add_argument("blurryFolder", help="Path of folder where blurry images will be sent", type=str)
     parser.add_argument("notBlurryFolder", help="Path of folder where non blurry images will be sent", type=str)
-    parser.add_argument("--threshold", help="Threshold for blurry detection, default is 200", type=int, default=200)
+    parser.add_argument("--threshold", help="Threshold for blurry detection, default is 200", type=int, default=150)
 
     args = parser.parse_args()
 

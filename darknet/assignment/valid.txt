@@ -1,0 +1,5 @@
+duckiestuff/validset/frame0015.jpg
+duckiestuff/validset/frame0041.jpg
+duckiestuff/validset/frame0048.jpg
+duckiestuff/validset/frame0053.jpg
+duckiestuff/validset/frame0055.jpg
